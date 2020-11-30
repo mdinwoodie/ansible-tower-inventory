@@ -2,3 +2,4 @@
 10.42.0.14
 
 [all:vars]
+test=test
